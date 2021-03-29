@@ -7,9 +7,6 @@ import com.example.web.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
-//import com.example.web.springboot.web.dto.PostsListResponseDto;
-//import com.example.web.springboot.web.dto.PostsSaveRequestsDto;
-
 
 @RequiredArgsConstructor
 @RestController
